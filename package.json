@@ -1,0 +1,22 @@
+{
+  "name": "hyper-seashells",
+  "version": "1.0.0",
+  "description": "Port of SeaShells terminal theme to Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronsky/hyper-seashells.git"
+  },
+  "author": "Aaron Sky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronsky/hyper-seashells/issues"
+  },
+  "homepage": "https://github.com/aaronsky/hyper-seashells#readme",
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
